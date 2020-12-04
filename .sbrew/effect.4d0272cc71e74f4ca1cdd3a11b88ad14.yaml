@@ -1,0 +1,14 @@
+﻿FormatVersion: 7
+Name: "HitObjectsHighlight 1"
+Script: "HitObjectsHighlight"
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  5101e591d583478091e8116d6fa60fc3:
+    Name: "hl"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
