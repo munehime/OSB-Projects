@@ -58,7 +58,6 @@
     <Compile Include="ExplodingParticles.cs" />
     <Compile Include="Flash.cs" />
     <Compile Include="HitObjectsHighlight.cs" />
-    <Compile Include="HL.cs" />
     <Compile Include="MovingUpParticles.cs" />
     <Compile Include="Titles.cs" />
     <Compile Include="TransitionsManager.cs" />
