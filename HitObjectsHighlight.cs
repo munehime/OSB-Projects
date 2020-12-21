@@ -27,7 +27,7 @@ namespace StorybrewScripts
                 foreach (var bookmark in Beatmap.Bookmarks)
                 {
                     Log($"{i++}. {bookmark}");
-                    var hitobject = Beatmap.HitObjects.FirstOrDefault(hitobj => (bookmark - 5 <= hitobj.StartTime && hitobj.StartTime <= bookmark + 5) || (bookmark - 5 <= hitobj.EndTime && hitobj.EndTime <= bookmark + 5));
+                    var hitobject = Beatmap.HitObjects.FirstOrDefault(hitobj => (bookmark - 5 < hitobj.StartTime && hitobj.StartTime <= bookmark + 5) || (bookmark - 5 < hitobj.EndTime && hitobj.EndTime <= bookmark + 5));
 
                     if (hitobject == null) continue;
 

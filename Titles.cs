@@ -37,7 +37,7 @@ namespace StorybrewScripts
 
             float lineWidth = 0;
             float lineHeight = 0;
-            Vector2 padding = new Vector2(15, 2);
+            Vector2 padding = new Vector2(10, 1);
 
             foreach (var letter in title)
             {
@@ -63,8 +63,8 @@ namespace StorybrewScripts
 
                     if (first)
                     {
-                        var box = GetLayer("box").CreateSprite("sb/p.png", OsbOrigin.CentreLeft, new Vector2(position.X - padding.X, position.Y));
-                        box.ScaleVec(OsbEasing.OutQuart, startTime, startTime + beatDuration * 8, 0, lineHeight + padding.Y, lineWidth + padding.X, lineHeight + padding.Y);
+                        var box = GetLayer("box").CreateSprite("sb/p.png", OsbOrigin.CentreLeft, new Vector2(position.X - texture.BaseWidth * fontScale * 0.5f - padding.X, position.Y));
+                        box.ScaleVec(OsbEasing.OutQuart, startTime, startTime + beatDuration * 8, 0, lineHeight + padding.Y * 2, lineWidth + padding.X * 2, lineHeight + padding.Y * 2);
                         box.Fade(startTime, 0.5);
                         box.Fade(endTime, 0);
                         box.Color(startTime, Color4.Black);
@@ -76,7 +76,7 @@ namespace StorybrewScripts
                             case 260854:
                             case 315753:
                             case 415613:
-                                box.ScaleVec(OsbEasing.InQuart, endTime - beatDuration * 4, endTime, lineWidth + padding.X, lineHeight + padding.Y, 0, lineHeight + padding.Y);
+                                box.ScaleVec(OsbEasing.InQuart, endTime - beatDuration * 4, endTime, lineWidth + padding.X * 2, lineHeight + padding.Y, 0, lineHeight + padding.Y * 2);
                                 break;
                         }
                     }
