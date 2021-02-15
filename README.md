@@ -1,2 +1,2 @@
 # xi - Songs Compilation
-(Mapset](https://osu.ppy.sh/beatmapsets/927425)
+[Mapset](https://osu.ppy.sh/beatmapsets/927425)
