@@ -1,0 +1,519 @@
+﻿FontPath: "Verdana"
+FontSize: 26
+ColorR: 1
+ColorG: 1
+ColorB: 1
+ColorA: 1
+PaddingX: 0
+PaddingY: 0
+FontStyle: Regular
+TrimTransparency: Yes
+EffectsOnly: No
+Debug: No
+Effects:
+  - Type: "StorybrewCommon.Subtitles.FontGlow"
+    Radius: 0
+    Power: 0
+    ColorR: 1
+    ColorG: 1
+    ColorB: 1
+    ColorA: 0.3921569
+  - Type: "StorybrewCommon.Subtitles.FontOutline"
+    Thickness: 3
+    ColorR: 0.1960784
+    ColorG: 0.1960784
+    ColorB: 0.1960784
+    ColorA: 0.7843137
+  - Type: "StorybrewCommon.Subtitles.FontShadow"
+    Thickness: 0
+    ColorR: 0
+    ColorG: 0
+    ColorB: 0
+    ColorA: 0.3921569
+Cache:
+  - Text: "それ本気でやってんの　ねえ"
+    Path: "SB/Lyrics/_000.png"
+    Hash: "b599eb22f800fe32a61824db3fb5e74e"
+    OffsetX: -3.24264
+    OffsetY: -0.2426405
+    BaseWidth: 408
+    BaseHeight: 43
+    Width: 413
+    Height: 43
+  - Text: "おばけを舐めてんの"
+    Path: "SB/Lyrics/_001.png"
+    Hash: "6f3f3406eebf375b734d7c0ad0776415"
+    OffsetX: -2.24264
+    OffsetY: -0.2426405
+    BaseWidth: 286
+    BaseHeight: 43
+    Width: 290
+    Height: 43
+  - Text: "また枕元　立ってんの　もう何回やってんの"
+    Path: "SB/Lyrics/_002.png"
+    Hash: "22f432e079eb51fcea7ddbdd411b45e4"
+    OffsetX: -2.24264
+    OffsetY: -0.2426405
+    BaseWidth: 617
+    BaseHeight: 43
+    Width: 621
+    Height: 43
+  - Text: "「ほら怖がれ」　という態度"
+    Path: "SB/Lyrics/_003.png"
+    Hash: "1e8994456e6fa8469ac897febd813f29"
+    OffsetX: 0.7573595
+    OffsetY: -0.2426405
+    BaseWidth: 381
+    BaseHeight: 43
+    Width: 381
+    Height: 43
+  - Text: "「怖がって欲しい」　という展望"
+    Path: "SB/Lyrics/_004.png"
+    Hash: "93abe6a1edf494531a7fbf005cc2717c"
+    OffsetX: 0.7573595
+    OffsetY: -0.2426405
+    BaseWidth: 439
+    BaseHeight: 43
+    Width: 439
+    Height: 43
+  - Text: "あなたはどっちかな"
+    Path: "SB/Lyrics/_005.png"
+    Hash: "3efa634601a4b66fc1acdde090f2dd08"
+    OffsetX: -1.24264
+    OffsetY: -0.2426405
+    BaseWidth: 272
+    BaseHeight: 43
+    Width: 273
+    Height: 42
+  - Text: "神はおっしゃる　どっちでもいい"
+    Path: "SB/Lyrics/_006.png"
+    Hash: "9c0674c8314aa62adb319e12032aa5d4"
+    OffsetX: -2.24264
+    OffsetY: -0.2426405
+    BaseWidth: 438
+    BaseHeight: 43
+    Width: 443
+    Height: 43
+  - Text: "心霊写真は　ウケねらい"
+    Path: "SB/Lyrics/_007.png"
+    Hash: "85699f18e3c04276aad5ba89233cb8ff"
+    OffsetX: -2.24264
+    OffsetY: -0.2426405
+    BaseWidth: 361
+    BaseHeight: 43
+    Width: 365
+    Height: 43
+  - Text: "誰でもわかる　ウケねらい"
+    Path: "SB/Lyrics/_008.png"
+    Hash: "b316f3e9827dcdf57c49773b746d1ad1"
+    OffsetX: -2.24264
+    OffsetY: -0.2426405
+    BaseWidth: 366
+    BaseHeight: 43
+    Width: 371
+    Height: 42
+  - Text: "渋い呪いも　ウケねらい"
+    Path: "SB/Lyrics/_009.png"
+    Hash: "c97068e90be43f4019104d1c08af8e2c"
+    OffsetX: -2.24264
+    OffsetY: -0.2426405
+    BaseWidth: 343
+    BaseHeight: 43
+    Width: 348
+    Height: 43
+  - Text: "玄人に向けた　ウケねらい"
+    Path: "SB/Lyrics/_00a.png"
+    Hash: "8df0395203187bb4a1dba2381aaf6feb"
+    OffsetX: -1.24264
+    OffsetY: -0.2426405
+    BaseWidth: 381
+    BaseHeight: 43
+    Width: 385
+    Height: 42
+  - Text: "てっとりばやく恐怖与えたい"
+    Path: "SB/Lyrics/_00b.png"
+    Hash: "05c198b4aa85ecf3bf17a25968dec777"
+    OffsetX: -2.24264
+    OffsetY: -0.2426405
+    BaseWidth: 392
+    BaseHeight: 43
+    Width: 397
+    Height: 43
+  - Text: "日進月歩　恐怖磨きたい"
+    Path: "SB/Lyrics/_00c.png"
+    Hash: "40cced15eec819ba823aad68991260ba"
+    OffsetX: 2.75736
+    OffsetY: -0.2426405
+    BaseWidth: 383
+    BaseHeight: 43
+    Width: 382
+    Height: 43
+  - Text: "よそはよそ　うちはうち"
+    Path: "SB/Lyrics/_00d.png"
+    Hash: "565be81e44f1390d0dc622dc0853d543"
+    OffsetX: -2.24264
+    OffsetY: -0.2426405
+    BaseWidth: 309
+    BaseHeight: 43
+    Width: 312
+    Height: 42
+  - Text: "鬼は外から福は内"
+    Path: "SB/Lyrics/_00e.png"
+    Hash: "1b174d59a892a3951b7cedf9601421b1"
+    OffsetX: -2.24264
+    OffsetY: -0.2426405
+    BaseWidth: 276
+    BaseHeight: 43
+    Width: 278
+    Height: 43
+  - Text: "自分がない　自分がないから浮かばれない"
+    Path: "SB/Lyrics/_00f.png"
+    Hash: "e66968a2d2564e4a1a014c1456734c76"
+    OffsetX: 2.75736
+    OffsetY: -0.2426405
+    BaseWidth: 626
+    BaseHeight: 43
+    Width: 626
+    Height: 43
+  - Text: "持論がある　持論があるから報われたい"
+    Path: "SB/Lyrics/_010.png"
+    Hash: "57d61cf49b5a54b1bc2c30a7f53c2fbf"
+    OffsetX: -2.24264
+    OffsetY: -0.2426405
+    BaseWidth: 585
+    BaseHeight: 43
+    Width: 590
+    Height: 43
+  - Text: "流行りに乗ってるけど好きでやってんの"
+    Path: "SB/Lyrics/_011.png"
+    Hash: "31b12433a0fd661ebb5fc7f020bd07e4"
+    OffsetX: -2.24264
+    OffsetY: -0.2426405
+    BaseWidth: 558
+    BaseHeight: 43
+    Width: 562
+    Height: 43
+  - Text: "ねえ　それとも魂売って自分殺してんの"
+    Path: "SB/Lyrics/_012.png"
+    Hash: "6758547534d933add8db4c217a30b384"
+    OffsetX: -3.24264
+    OffsetY: -1.24264
+    BaseWidth: 569
+    BaseHeight: 43
+    Width: 575
+    Height: 44
+  - Text: "ひゅ～どろろ"
+    Path: "SB/Lyrics/_013.png"
+    Hash: "a5005d251fd0b40a7cf4a69d3a5d2b14"
+    OffsetX: -2.24264
+    OffsetY: 1.75736
+    BaseWidth: 181
+    BaseHeight: 43
+    Width: 184
+    Height: 40
+  - Text: "滑ってるのに　みんなは賞賛"
+    Path: "SB/Lyrics/_014.png"
+    Hash: "0a8d9775c532287021076cb0e21641fb"
+    OffsetX: -1.24264
+    OffsetY: -0.2426405
+    BaseWidth: 414
+    BaseHeight: 43
+    Width: 417
+    Height: 43
+  - Text: "日々　労働を"
+    Path: "SB/Lyrics/_015.png"
+    Hash: "70f44d88031b3034d99ecb9ce293cff2"
+    OffsetX: 2.75736
+    OffsetY: -0.2426405
+    BaseWidth: 207
+    BaseHeight: 43
+    Width: 207
+    Height: 43
+  - Text: "のち法要を"
+    Path: "SB/Lyrics/_016.png"
+    Hash: "b42ef8572b7be8c942c86ab9a3379a2d"
+    OffsetX: -2.24264
+    OffsetY: -0.2426405
+    BaseWidth: 166
+    BaseHeight: 43
+    Width: 170
+    Height: 43
+  - Text: "続けます　私の好きなウケねらいを"
+    Path: "SB/Lyrics/_017.png"
+    Hash: "7d7779c9cd4e69cb2095937471e30eb4"
+    OffsetX: -3.24264
+    OffsetY: -0.2426405
+    BaseWidth: 503
+    BaseHeight: 43
+    Width: 509
+    Height: 43
+  - Text: "じんわり火が灯る　ローソク吹き消し"
+    Path: "SB/Lyrics/_018.png"
+    Hash: "bd3fce36afce229ea2be8b06ee23265e"
+    OffsetX: 0.7573595
+    OffsetY: -0.2426405
+    BaseWidth: 524
+    BaseHeight: 43
+    Width: 526
+    Height: 42
+  - Text: "大音量のラップ音で　すべてが　台無し"
+    Path: "SB/Lyrics/_019.png"
+    Hash: "bd775c4bdd6b1ee536a56367b7059ca5"
+    OffsetX: -2.24264
+    OffsetY: -1.24264
+    BaseWidth: 572
+    BaseHeight: 43
+    Width: 576
+    Height: 44
+  - Text: "ありがち？いやスタンダード"
+    Path: "SB/Lyrics/_01a.png"
+    Hash: "1d0163ad4f931cce7375026149140f07"
+    OffsetX: -1.24264
+    OffsetY: -1.24264
+    BaseWidth: 388
+    BaseHeight: 43
+    Width: 392
+    Height: 43
+  - Text: "斬新？いや出オチ"
+    Path: "SB/Lyrics/_01b.png"
+    Hash: "47d25b9c3a756fb12e5929b271a3a473"
+    OffsetX: -2.24264
+    OffsetY: -0.2426405
+    BaseWidth: 276
+    BaseHeight: 43
+    Width: 280
+    Height: 43
+  - Text: "心霊スポットのレビュー怨念の考察"
+    Path: "SB/Lyrics/_01c.png"
+    Hash: "331693c0b241b35cb9c2c46766106354"
+    OffsetX: -2.24264
+    OffsetY: -1.24264
+    BaseWidth: 513
+    BaseHeight: 43
+    Width: 517
+    Height: 44
+  - Text: "その方法は　受け入れない"
+    Path: "SB/Lyrics/_01d.png"
+    Hash: "4dc5859f6bfb7834dc092a234edbab33"
+    OffsetX: -3.24264
+    OffsetY: -0.2426405
+    BaseWidth: 399
+    BaseHeight: 43
+    Width: 405
+    Height: 43
+  - Text: "胡散臭いから受け入れない"
+    Path: "SB/Lyrics/_01e.png"
+    Hash: "87247c9f970df5c9c67bbff281b2bf5a"
+    OffsetX: -1.24264
+    OffsetY: -0.2426405
+    BaseWidth: 409
+    BaseHeight: 43
+    Width: 412
+    Height: 43
+  - Text: "その発想は　受け入れたい"
+    Path: "SB/Lyrics/_01f.png"
+    Hash: "426cd256317b0b5ba9f1fcac38b5f111"
+    OffsetX: -3.24264
+    OffsetY: -0.2426405
+    BaseWidth: 397
+    BaseHeight: 43
+    Width: 402
+    Height: 43
+  - Text: "不器用だけど受け入れたい"
+    Path: "SB/Lyrics/_020.png"
+    Hash: "70a27133f1ead5ce377fb27bb1d522da"
+    OffsetX: -2.24264
+    OffsetY: -0.2426405
+    BaseWidth: 406
+    BaseHeight: 43
+    Width: 411
+    Height: 43
+  - Text: "効率よく　テキトーに化けたい"
+    Path: "SB/Lyrics/_021.png"
+    Hash: "5be5b2b26bd205b03809d2886c6b4a30"
+    OffsetX: -2.24264
+    OffsetY: -0.2426405
+    BaseWidth: 429
+    BaseHeight: 43
+    Width: 433
+    Height: 43
+  - Text: "損するけど　ディテール詰めたい"
+    Path: "SB/Lyrics/_022.png"
+    Hash: "77ca1396241ffeb52afdbd0c3afd3097"
+    OffsetX: -2.24264
+    OffsetY: -0.2426405
+    BaseWidth: 459
+    BaseHeight: 43
+    Width: 464
+    Height: 43
+  - Text: "大体が絵に描いた餅"
+    Path: "SB/Lyrics/_023.png"
+    Hash: "c4f2608e7742122a9ec56232e12c5409"
+    OffsetX: -2.24264
+    OffsetY: -1.24264
+    BaseWidth: 314
+    BaseHeight: 43
+    Width: 318
+    Height: 44
+  - Text: "事件がないから　事件がないから"
+    Path: "SB/Lyrics/_024.png"
+    Hash: "98be5fbc91bdb589c69eef058b1eed5e"
+    OffsetX: -2.24264
+    OffsetY: -0.2426405
+    BaseWidth: 484
+    BaseHeight: 43
+    Width: 489
+    Height: 43
+  - Text: "リアルじゃない"
+    Path: "SB/Lyrics/_025.png"
+    Hash: "a3c08b6fd5546ff88c39fa1027573896"
+    OffsetX: -1.24264
+    OffsetY: -0.2426405
+    BaseWidth: 200
+    BaseHeight: 43
+    Width: 204
+    Height: 42
+  - Text: "危険がある　危険があるからみんなは期待"
+    Path: "SB/Lyrics/_026.png"
+    Hash: "40180cdd67658870b2af84922599c062"
+    OffsetX: -2.24264
+    OffsetY: -0.2426405
+    BaseWidth: 626
+    BaseHeight: 43
+    Width: 630
+    Height: 43
+  - Text: "悪霊のイッてる感じ　わざと出してんの"
+    Path: "SB/Lyrics/_027.png"
+    Hash: "59596ec5c07e2c6118175e98afa206fe"
+    OffsetX: -1.24264
+    OffsetY: -1.24264
+    BaseWidth: 551
+    BaseHeight: 43
+    Width: 554
+    Height: 43
+  - Text: "ねえ　それとも　根っから天才で"
+    Path: "SB/Lyrics/_028.png"
+    Hash: "8bda15ec2cd41efd026da182202a0d67"
+    OffsetX: -3.24264
+    OffsetY: -0.2426405
+    BaseWidth: 457
+    BaseHeight: 43
+    Width: 463
+    Height: 43
+  - Text: "ぶっとんでんの"
+    Path: "SB/Lyrics/_029.png"
+    Hash: "62ac62b38e52aa2960078b3fe1312b0c"
+    OffsetX: -3.24264
+    OffsetY: 0.7573595
+    BaseWidth: 204
+    BaseHeight: 43
+    Width: 209
+    Height: 41
+  - Text: "嗤ってたのに　あえなく降参"
+    Path: "SB/Lyrics/_02a.png"
+    Hash: "61c555477fbd2604c5448d0f9285364d"
+    OffsetX: -1.24264
+    OffsetY: -0.2426405
+    BaseWidth: 398
+    BaseHeight: 43
+    Width: 401
+    Height: 43
+  - Text: "意気揚々と　死後ひょうひょうと"
+    Path: "SB/Lyrics/_02b.png"
+    Hash: "33c0503798e49633a5b7a186d300f7ba"
+    OffsetX: -3.24264
+    OffsetY: -1.24264
+    BaseWidth: 456
+    BaseHeight: 43
+    Width: 462
+    Height: 44
+  - Text: "わかってるのに　やめられぬウケねらいよ"
+    Path: "SB/Lyrics/_02c.png"
+    Hash: "06d73629db25e072dac80d4746e32c66"
+    OffsetX: -3.24264
+    OffsetY: -0.2426405
+    BaseWidth: 568
+    BaseHeight: 43
+    Width: 573
+    Height: 42
+  - Text: "生前から引いてばっかのはずれくじ"
+    Path: "SB/Lyrics/_02d.png"
+    Hash: "e9777fbff33cff99d4970dc070b670e1"
+    OffsetX: -1.24264
+    OffsetY: -1.24264
+    BaseWidth: 498
+    BaseHeight: 43
+    Width: 501
+    Height: 44
+  - Text: "好きだったおばけはどっか行って神隠し"
+    Path: "SB/Lyrics/_02e.png"
+    Hash: "847efcf5e836286ccc7cec7da5a014b9"
+    OffsetX: -1.24264
+    OffsetY: -0.2426405
+    BaseWidth: 558
+    BaseHeight: 43
+    Width: 561
+    Height: 43
+  - Text: "やったもん勝ちの許せるラインが"
+    Path: "SB/Lyrics/_02f.png"
+    Hash: "c5e1eebd57e762743b1663af9cd0dc8f"
+    OffsetX: -2.24264
+    OffsetY: -0.2426405
+    BaseWidth: 459
+    BaseHeight: 43
+    Width: 464
+    Height: 43
+  - Text: "ぼやけだし"
+    Path: "SB/Lyrics/_030.png"
+    Hash: "d4ef10a7880e249ec0ab94f9d20cc969"
+    OffsetX: -2.24264
+    OffsetY: -1.24264
+    BaseWidth: 154
+    BaseHeight: 43
+    Width: 158
+    Height: 43
+  - Text: "大嫌いなオカルトみんなが好きでも"
+    Path: "SB/Lyrics/_031.png"
+    Hash: "e2ac326ff37be9eeb44056649e671f6e"
+    OffsetX: -2.24264
+    OffsetY: -0.2426405
+    BaseWidth: 511
+    BaseHeight: 43
+    Width: 514
+    Height: 43
+  - Text: "そういうもんだし"
+    Path: "SB/Lyrics/_032.png"
+    Hash: "aa8f6801befd3f095f383484d89d1be4"
+    OffsetX: -3.24264
+    OffsetY: -0.2426405
+    BaseWidth: 223
+    BaseHeight: 43
+    Width: 229
+    Height: 42
+  - Text: "日々　労働"
+    Path: "SB/Lyrics/_033.png"
+    Hash: "a2aa42586032521f121162366e723a36"
+    OffsetX: 2.75736
+    OffsetY: -0.2426405
+    BaseWidth: 178
+    BaseHeight: 43
+    Width: 176
+    Height: 43
+  - Text: "意気揚々と"
+    Path: "SB/Lyrics/_034.png"
+    Hash: "3f950cd3a58e6ff9734397d3328e1f5b"
+    OffsetX: -3.24264
+    OffsetY: -0.2426405
+    BaseWidth: 177
+    BaseHeight: 43
+    Width: 183
+    Height: 43
+  - Text: "死後ひょうひょうと"
+    Path: "SB/Lyrics/_035.png"
+    Hash: "6a2b5cf8597d3d5884306fe93c79471c"
+    OffsetX: -2.24264
+    OffsetY: -1.24264
+    BaseWidth: 254
+    BaseHeight: 43
+    Width: 259
+    Height: 43
