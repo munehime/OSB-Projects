@@ -1,0 +1,470 @@
+[
+	{
+		"sentence": "静かに瞬く",
+		"startTime": 28329,
+		"endTime": 31435,
+		"position": {
+			"X": 120,
+			"Y": 120
+		}
+	},
+	{
+		"sentence": "星たちの散り逝く空",
+		"startTime": 31748,
+		"endTime": 35498,
+		"position": {
+			"X": 400,
+			"Y": 200
+		}
+	},
+	{
+		"sentence": "届かぬ祈りが",
+		"startTime": 35810,
+		"endTime": 38935,
+		"position": {
+			"X": 280,
+			"Y": 290
+		}
+	},
+	{
+		"sentence": "天と地を満たしてた",
+		"startTime": 39248,
+		"endTime": 43310,
+		"position": {
+			"X": 160,
+			"Y": 180
+		}
+	},
+	{
+		"sentence": "細い枝に光るのは",
+		"startTime": 57685,
+		"endTime": 64248,
+		"position": {
+			"X": 520,
+			"Y": 120
+		}
+	},
+	{
+		"sentence": "咲き忘れた未来",
+		"startTime": 62060,
+		"endTime": 65185,
+		"position": {
+			"X": 470,
+			"Y": 153
+		}
+	},
+	{
+		"sentence": "まだ名残惜しそうに",
+		"startTime": 65498,
+		"endTime": 71748,
+		"position": {
+			"X": 60,
+			"Y": 330
+		}
+	},
+	{
+		"sentence": "蕾を落とした",
+		"startTime": 69560,
+		"endTime": 72685,
+		"position": {
+			"X": 130,
+			"Y": 363
+		}
+	},
+	{
+		"sentence": "ほら",
+		"startTime": 72998,
+		"endTime": 78310,
+		"position": {
+			"X": 530,
+			"Y": 267
+		}
+	},
+	{
+		"sentence": "もう時は満ちて",
+		"startTime": 74560,
+		"endTime": 79248,
+		"position": {
+			"X": 500,
+			"Y": 300
+		}
+	},
+	{
+		"sentence": "実る黄金の果実",
+		"startTime": 77060,
+		"endTime": 80185,
+		"position": {
+			"X": 540,
+			"Y": 333
+		}
+	},
+	{
+		"sentence": "その手で",
+		"startTime": 80498,
+		"endTime": 86123,
+		"position": {
+			"X": 130,
+			"Y": 80
+		}
+	},
+	{
+		"sentence": "摘み取るだけで",
+		"startTime": 82685,
+		"endTime": 87060,
+		"position": {
+			"X": 80,
+			"Y": 113
+		}
+	},
+	{
+		"sentence": "世界は終わるから",
+		"startTime": 84560,
+		"endTime": 87998,
+		"position": {
+			"X": 140,
+			"Y": 146
+		}
+	},
+	{
+		"sentence": "穢れぬものとして",
+		"startTime": 88310,
+		"endTime": 91904,
+		"position": {
+			"X": 535,
+			"Y": 135
+		}
+	},
+	{
+		"sentence": "降る雪の白さは",
+		"startTime": 92060,
+		"endTime": 95654,
+		"position": {
+			"X": 500,
+			"Y": 180
+		}
+	},
+	{
+		"sentence": "温もりを知れば消えてしまうの",
+		"startTime": 95810,
+		"endTime": 103154,
+		"position": {
+			"X": 320,
+			"Y": 240
+		}
+	},
+	{
+		"sentence": "奇麗な夢だけが",
+		"startTime": 103310,
+		"endTime": 106748,
+		"position": {
+			"X": 75,
+			"Y": 280
+		}
+	},
+	{
+		"sentence": "貴方を切り裂いた",
+		"startTime": 107060,
+		"endTime": 110029,
+		"position": {
+			"X": 100,
+			"Y": 320
+		}
+	},
+	{
+		"sentence": "冷たい瞳の",
+		"startTime": 110185,
+		"endTime": 113779,
+		"position": {
+			"X": 550,
+			"Y": 120
+		}
+	},
+	{
+		"sentence": "優しさと真実",
+		"startTime": 113935,
+		"endTime": 117998,
+		"position": {
+			"X": 520,
+			"Y": 160
+		}
+	},
+	{
+		"sentence": "激しく瞬く",
+		"startTime": 118310,
+		"endTime": 121592,
+		"position": {
+			"X": 130,
+			"Y": 230
+		}
+	},
+	{
+		"sentence": "星たちは天に背いて",
+		"startTime": 121748,
+		"endTime": 125654,
+		"position": {
+			"X": 150,
+			"Y": 275
+		}
+	},
+	{
+		"sentence": "仇なす祈りが",
+		"startTime": 125810,
+		"endTime": 129092,
+		"position": {
+			"X": 530,
+			"Y": 260
+		}
+	},
+	{
+		"sentence": "この空を墜とすまで",
+		"startTime": 129248,
+		"endTime": 133310,
+		"position": {
+			"X": 470,
+			"Y": 315
+		}
+	},
+	{
+		"sentence": "私を弔う為の",
+		"startTime": 147998,
+		"endTime": 154092,
+		"position": {
+			"X": 520,
+			"Y": 280
+		}
+	},
+	{
+		"sentence": "花束はいらない",
+		"startTime": 152060,
+		"endTime": 155185,
+		"position": {
+			"X": 480,
+			"Y": 313
+		}
+	},
+	{
+		"sentence": "心が潰えぬうちに",
+		"startTime": 155498,
+		"endTime": 162060,
+		"position": {
+			"X": 60,
+			"Y": 200
+		}
+	},
+	{
+		"sentence": "願いを叶えて",
+		"startTime": 157998,
+		"endTime": 162998,
+		"position": {
+			"X": 110,
+			"Y": 233
+		}
+	},
+	{
+		"sentence": "見届けてみたい",
+		"startTime": 163310,
+		"endTime": 169795,
+		"position": {
+			"X": 580,
+			"Y": 315
+		}
+	},
+	{
+		"sentence": "人の望みが",
+		"startTime": 167060,
+		"endTime": 170654,
+		"position": {
+			"X": 510,
+			"Y": 348
+		}
+	},
+	{
+		"sentence": "燦々と光に",
+		"startTime": 170810,
+		"endTime": 174873,
+		"position": {
+			"X": 320,
+			"Y": 240
+		}
+	},
+	{
+		"sentence": "満ちる時を",
+		"startTime": 175185,
+		"endTime": 177988,
+		"position": {
+			"X": 320,
+			"Y": 240
+		}
+	},
+	{
+		"sentence": "翼を欲しがって",
+		"startTime": 178312,
+		"endTime": 181748,
+		"position": {
+			"X": 40,
+			"Y": 300
+		}
+	},
+	{
+		"sentence": "誰もが泣いていた",
+		"startTime": 182060,
+		"endTime": 185029,
+		"position": {
+			"X": 140,
+			"Y": 340
+		}
+	},
+	{
+		"sentence": "命が奏でる",
+		"startTime": 185185,
+		"endTime": 188779,
+		"position": {
+			"X": 320,
+			"Y": 240
+		}
+	},
+	{
+		"sentence": "命が奏でる",
+		"startTime": 188935,
+		"endTime": 192685,
+		"position": {
+			"X": 320,
+			"Y": 240
+		}
+	},
+	{
+		"sentence": "「満天」",
+		"startTime": 192998,
+		"endTime": 200810,
+		"position": {
+			"X": 320,
+			"Y": 240
+		}
+	},
+	{
+		"sentence": "焼け焦げた願いが",
+		"startTime": 223310,
+		"endTime": 229482,
+		"position": {
+			"X": 550,
+			"Y": 100
+		}
+	},
+	{
+		"sentence": "空を抉じ開ける頃に",
+		"startTime": 226435,
+		"endTime": 230498,
+		"position": {
+			"X": 580,
+			"Y": 133
+		}
+	},
+	{
+		"sentence": "空を抉じ開ける頃に",
+		"startTime": 230810,
+		"endTime": 238935,
+		"position": {
+			"X": 90,
+			"Y": 350
+		}
+	},
+	{
+		"sentence": "きっと花の盛りでしょう",
+		"startTime": 233935,
+		"endTime": 240029,
+		"position": {
+			"X": 120,
+			"Y": 383
+		}
+	},
+	{
+		"sentence": "激しく瞬く",
+		"startTime": 240185,
+		"endTime": 243310,
+		"position": {
+			"X": 320,
+			"Y": 240
+		}
+	},
+	{
+		"sentence": "星たちの夢の跡",
+		"startTime": 243623,
+		"endTime": 247692,
+		"position": {
+			"X": 320,
+			"Y": 240
+		}
+	},
+	{
+		"sentence": "安らぎのあると",
+		"startTime": 255185,
+		"endTime": 261670,
+		"position": {
+			"X": 540,
+			"Y": 228
+		}
+	},
+	{
+		"sentence": "人の言う",
+		"startTime": 258623,
+		"endTime": 262529,
+		"position": {
+			"X": 580,
+			"Y": 261
+		}
+	},
+	{
+		"sentence": "最果てまで月影優しく",
+		"startTime": 262685,
+		"endTime": 265967,
+		"position": {
+			"X": 70,
+			"Y": 280
+		}
+	},
+	{
+		"sentence": "行く路を教えてよ",
+		"startTime": 265967,
+		"endTime": 270029,
+		"position": {
+			"X": 90,
+			"Y": 320
+		}
+	},
+	{
+		"sentence": "静かに瞬く",
+		"startTime": 270185,
+		"endTime": 276514,
+		"position": {
+			"X": 490,
+			"Y": 80
+		}
+	},
+	{
+		"sentence": "星たちの祈りの空",
+		"startTime": 273623,
+		"endTime": 277529,
+		"position": {
+			"X": 550,
+			"Y": 113
+		}
+	},
+	{
+		"sentence": "貴方の叫びで",
+		"startTime": 277685,
+		"endTime": 280967,
+		"position": {
+			"X": 68,
+			"Y": 200
+		}
+	},
+	{
+		"sentence": "この夢が終わるまで",
+		"startTime": 281123,
+		"endTime": 290810,
+		"position": {
+			"X": 300,
+			"Y": 240
+		}
+	}
+]

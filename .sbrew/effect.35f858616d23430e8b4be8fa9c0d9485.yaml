@@ -1,0 +1,74 @@
+﻿FormatVersion: 7
+Name: "Parallax 1"
+Script: "Parallax"
+Config:
+  BackgroundPath:
+    Type: "System.String"
+    Value: "78725175_p0.jpg"
+  StartTime:
+    Type: "System.Int32"
+    Value: "270185"
+  EndTime:
+    Type: "System.Int32"
+    Value: "283310"
+  BeatDivisor:
+    Type: "System.Int32"
+    Value: "6"
+  MoveAmount:
+    Type: "System.Single"
+    Value: "0.0055"
+  BackgroundScale:
+    Type: "System.Single"
+    Value: "1.0035"
+  BackgroundFade:
+    Type: "System.Single"
+    Value: "1"
+  EasingType:
+    Type: "System.Int32"
+    Value: "17"
+    AllowedValues:
+      None: "0"
+      Out: "1"
+      In: "2"
+      InQuad: "3"
+      OutQuad: "4"
+      InOutQuad: "5"
+      InCubic: "6"
+      OutCubic: "7"
+      InOutCubic: "8"
+      InQuart: "9"
+      OutQuart: "10"
+      InOutQuart: "11"
+      InQuint: "12"
+      OutQuint: "13"
+      InOutQuint: "14"
+      InSine: "15"
+      OutSine: "16"
+      InOutSine: "17"
+      InExpo: "18"
+      OutExpo: "19"
+      InOutExpo: "20"
+      InCirc: "21"
+      OutCirc: "22"
+      InOutCirc: "23"
+      InElastic: "24"
+      OutElastic: "25"
+      OutElasticHalf: "26"
+      OutElasticQuarter: "27"
+      InOutElastic: "28"
+      InBack: "29"
+      OutBack: "30"
+      InOutBack: "31"
+      InBounce: "32"
+      OutBounce: "33"
+      InOutBounce: "34"
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  d0b5daea80ba420e872818ffe6188b1a:
+    Name: "Foreground"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes

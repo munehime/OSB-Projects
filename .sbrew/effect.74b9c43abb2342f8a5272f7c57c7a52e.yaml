@@ -1,0 +1,34 @@
+﻿FormatVersion: 7
+Name: "Background 1"
+Script: "Background"
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "3"
+    DisplayName: "Random seed"
+Layers:
+  9caeff780f4c4dc29a88cd171db9301a:
+    Name: "bg"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  da0c9fd9380a4d77bc41991f3110a52b:
+    Name: "bw"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  da8198f6933a4c7e853f26cbdbcb41ad:
+    Name: "blur"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  ef279caef266445aa81b73baa26a8e9d:
+    Name: "float"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  cab36ae1921f437a8fbd55afb21d6173:
+    Name: "vig"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
