@@ -1,0 +1,14 @@
+﻿FormatVersion: 6
+Name: "Particles 1"
+Script: "Particles"
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  c0ad7fa04d0541a786d96cbc1ff30e5c:
+    Name: "particles"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes

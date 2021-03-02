@@ -1,0 +1,14 @@
+﻿FormatVersion: 6
+Name: "DeleteBackground 1"
+Script: "DeleteBackground"
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  633496bc477b44a3824a63cefa157a57:
+    Name: ""
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes

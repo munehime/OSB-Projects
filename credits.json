@@ -1,0 +1,50 @@
+[
+	{
+		"sentence": "KAMUSUSANOWO",
+		"startTime": 102174,
+		"endTime": 104916,
+		"top": true
+	},
+	{
+		"sentence": "polysha",
+		"startTime": 102174,
+		"endTime": 104916,
+		"top": false
+	},
+	{
+		"sentence": "BEATMAP",
+		"startTime": 104916,
+		"endTime": 107659,
+		"top": true
+	},
+	{
+		"sentence": "- Rem -",
+		"startTime": 104916,
+		"endTime": 107659,
+		"top": false
+	},
+	{
+		"sentence": "HITSOUND",
+		"startTime": 107659,
+		"endTime": 110402,
+		"top": true
+	},
+	{
+		"sentence": "MarcoBrolo",
+		"startTime": 107659,
+		"endTime": 110402,
+		"top": false
+	},
+	{
+		"sentence": "STORYBOARD",
+		"startTime": 110402,
+		"endTime": 112459,
+		"top": true
+	},
+	{
+		"sentence": "Typ4 x MunRika",
+		"startTime": 110402,
+		"endTime": 112459,
+		"top": false
+	}
+]

@@ -1,0 +1,14 @@
+﻿FormatVersion: 6
+Name: "Parallax 1"
+Script: "Parallax"
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  60f4512ba8ae4b02934d69630d8dcbf4:
+    Name: ""
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes

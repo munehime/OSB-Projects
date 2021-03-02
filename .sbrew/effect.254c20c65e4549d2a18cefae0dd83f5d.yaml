@@ -1,0 +1,19 @@
+﻿FormatVersion: 6
+Name: "Credits 1"
+Script: "Credits"
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  e7bb0b7797d140dbb0bbc66eb5b1b77c:
+    Name: "text"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  30ff0e334dc84583888f6b7a53dd4fa2:
+    Name: "shape"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes

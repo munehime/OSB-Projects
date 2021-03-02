@@ -1,0 +1,39 @@
+﻿FormatVersion: 6
+Name: "Highlight 1"
+Script: "Highlight"
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  6cfbe334257b4e12ac92aeae6909de1f:
+    Name: "ring"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  e6cf2d8c7dc1471ebc5effa5680448c9:
+    Name: "ring_pariticles"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  5bb09d53293749c2985bd4653f09c405:
+    Name: "spotlight"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  e9734645b53946f0ad4d364efb839333:
+    Name: "hl"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  54bf4a1f23b248e9afc7237f328165db:
+    Name: "hit"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  cc602249d994462083a9c13cd781bcd3:
+    Name: "vertical"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes

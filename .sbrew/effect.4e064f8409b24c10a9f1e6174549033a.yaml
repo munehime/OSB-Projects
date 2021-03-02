@@ -1,0 +1,59 @@
+﻿FormatVersion: 6
+Name: "Transtions 1"
+Script: "Transtions"
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  4cfbca1ba0ed4a85909204e2ae64b78e:
+    Name: "transtion 7"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  e9412efb34134045b52cb0ea0a1d11f8:
+    Name: "flash"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  a4b9e870ef614a24bdea6bb2d0237ab8:
+    Name: "transtion 2"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  a9661fc8321843e7a11bae60fcad616f:
+    Name: "transtion 3"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  1ccb92e005204d4fa698cfc4723b71f4:
+    Name: "blossom 1"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  b268b0e94af24b4d9d4708ccf230cd2a:
+    Name: "transtion 4"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  2eb956088b6c4695af2e1df7ed695050:
+    Name: "transtion 5"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  a1ef88b1cbaa4a7cba95ef72514769fb:
+    Name: "transtion 6"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  48aa728b884f420c85a024de4678be18:
+    Name: "transtion 8"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  3226bc75156042d7ad3a238f011788fa:
+    Name: "transtion 9"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
