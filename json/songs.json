@@ -1,0 +1,299 @@
+[{
+        "sentence": "Frederic - oddloop",
+        "color": "white",
+        "startTime": 1260,
+        "endTime": 45388,
+        "startFadeTime": 500,
+        "endFadeTime": 500,
+        "X": -80,
+        "Y": 405,
+        "size": 0.275,
+        "opacity": 1
+    },
+
+    {
+        "sentence": "yanaginagi - Vidro Moyou",
+        "color": "white",
+        "startTime": 45475,
+        "endTime": 74281,
+        "startFadeTime": 500,
+        "endFadeTime": 500,
+        "X": -80,
+        "Y": 405,
+        "size": 0.275,
+        "opacity": 1
+    },
+
+    {
+        "sentence": "GET IN THE RING - Moonscraper",
+        "color": "white",
+        "startTime": 74434,
+        "endTime": 122765,
+        "startFadeTime": 500,
+        "endFadeTime": 500,
+        "X": -80,
+        "Y": 405,
+        "size": 0.275,
+        "opacity": 1
+    },
+
+    {
+        "sentence": "DJ Genki VS Camellia feat. moimoi - Sunshine",
+        "color": "white",
+        "startTime": 122834,
+        "endTime": 189894,
+        "startFadeTime": 500,
+        "endFadeTime": 500,
+        "X": -80,
+        "Y": 405,
+        "size": 0.275,
+        "opacity": 1
+    },
+
+    {
+        "sentence": "Memme - Acid Burst",
+        "color": "white",
+        "startTime": 189953,
+        "endTime": 204228,
+        "startFadeTime": 500,
+        "endFadeTime": 500,
+        "X": -80,
+        "Y": 405,
+        "size": 0.275,
+        "opacity": 1
+    },
+
+    {
+        "sentence": "MISATO - Necro Fantasia",
+        "color": "white",
+        "startTime": 204311,
+        "endTime": 233070,
+        "startFadeTime": 500,
+        "endFadeTime": 500,
+        "X": -80,
+        "Y": 405,
+        "size": 0.275,
+        "opacity": 1
+    },
+
+    {
+        "sentence": "3 Nen E Gumi Utatan - Bye Bye YESTERDAY",
+        "color": "white",
+        "startTime": 233172,
+        "endTime": 275880,
+        "startFadeTime": 500,
+        "endFadeTime": 500,
+        "X": -80,
+        "Y": 405,
+        "size": 0.275,
+        "opacity": 1
+    },
+
+    {
+        "sentence": "Shimotsuki Haruka - Liblume",
+        "color": "white",
+        "startTime": 275980,
+        "endTime": 333564,
+        "startFadeTime": 500,
+        "endFadeTime": 500,
+        "X": -80,
+        "Y": 405,
+        "size": 0.275,
+        "opacity": 1
+    },
+
+    {
+        "sentence": "Kano - Dear Brave",
+        "color": "white",
+        "startTime": 333724,
+        "endTime": 402725,
+        "startFadeTime": 500,
+        "endFadeTime": 500,
+        "X": -80,
+        "Y": 405,
+        "size": 0.275,
+        "opacity": 1
+    },
+
+    {
+        "sentence": "a_hisa - Synesthesia",
+        "color": "white",
+        "startTime": 402804,
+        "endTime": 441962,
+        "startFadeTime": 500,
+        "endFadeTime": 500,
+        "X": -80,
+        "Y": 405,
+        "size": 0.275,
+        "opacity": 1
+    },
+
+    {
+        "sentence": "Syaro(CV.Uchida Maaya) - Caffeine Fighter",
+        "color": "white",
+        "startTime": 442120,
+        "endTime": 475283,
+        "startFadeTime": 500,
+        "endFadeTime": 500,
+        "X": -80,
+        "Y": 405,
+        "size": 0.275,
+        "opacity": 1
+    },
+
+    {
+        "sentence": "Kano - Sakura no Zenya",
+        "color": "white",
+        "startTime": 475447,
+        "endTime": 535347,
+        "startFadeTime": 500,
+        "endFadeTime": 500,
+        "X": -80,
+        "Y": 405,
+        "size": 0.275,
+        "opacity": 1
+    },
+
+    {
+        "sentence": "KASAI HARCORES - Cycle Hit",
+        "color": "white",
+        "startTime": 535547,
+        "endTime": 605460,
+        "startFadeTime": 500,
+        "endFadeTime": 500,
+        "X": -80,
+        "Y": 405,
+        "size": 0.275,
+        "opacity": 1
+    },
+
+    {
+        "sentence": "xi - Ascension to Heaven",
+        "color": "white",
+        "startTime": 605660,
+        "endTime": 643887,
+        "startFadeTime": 500,
+        "endFadeTime": 500,
+        "X": -80,
+        "Y": 405,
+        "size": 0.275,
+        "opacity": 1
+    },
+
+    {
+        "sentence": "MOMOIRO CLOVER Z - SANTA SAN",
+        "color": "white",
+        "startTime": 644087,
+        "endTime": 762639,
+        "startFadeTime": 500,
+        "endFadeTime": 500,
+        "X": -80,
+        "Y": 405,
+        "size": 0.275,
+        "opacity": 1
+    },
+
+    {
+        "sentence": "DM DOKURO - Reality Check Through The Skull",
+        "color": "white",
+        "startTime": 785635,
+        "endTime": 813442,
+        "startFadeTime": 500,
+        "endFadeTime": 500,
+        "X": -80,
+        "Y": 405,
+        "size": 0.275,
+        "opacity": 1
+    },
+
+    {
+        "sentence": "USAO - Miracle 5ympho X",
+        "color": "white",
+        "startTime": 816041,
+        "endTime": 863631,
+        "startFadeTime": 500,
+        "endFadeTime": 500,
+        "X": -80,
+        "Y": 405,
+        "size": 0.275,
+        "opacity": 1
+    },
+
+    {
+        "sentence": "Izumi Akazawa - Responsibility Response",
+        "color": "white",
+        "startTime": 866465,
+        "endTime": 899536,
+        "startFadeTime": 500,
+        "endFadeTime": 500,
+        "X": -80,
+        "Y": 405,
+        "size": 0.275,
+        "opacity": 1
+    },
+
+    {
+        "sentence": "Team Nekokan - Can't Defeat Airman",
+        "color": "white",
+        "startTime": 901697,
+        "endTime": 930197,
+        "startFadeTime": 500,
+        "endFadeTime": 500,
+        "X": -80,
+        "Y": 405,
+        "size": 0.275,
+        "opacity": 1
+    },
+
+    {
+        "sentence": "Sayuri - Mikazuki",
+        "color": "white",
+        "startTime": 930504,
+        "endTime": 949836,
+        "startFadeTime": 500,
+        "endFadeTime": 500,
+        "X": -80,
+        "Y": 405,
+        "size": 0.275,
+        "opacity": 1
+    },
+
+    {
+        "sentence": "Aitsuki Nakuru - Monochrome Butterfly",
+        "color": "white",
+        "startTime": 950728,
+        "endTime": 965476,
+        "startFadeTime": 500,
+        "endFadeTime": 500,
+        "X": -80,
+        "Y": 405,
+        "size": 0.275,
+        "opacity": 1
+    },
+
+    {
+        "sentence": "Kano - Sukisuki Zecchoushou",
+        "color": "white",
+        "startTime": 965562,
+        "endTime": 1014268,
+        "startFadeTime": 500,
+        "endFadeTime": 500,
+        "X": -80,
+        "Y": 405,
+        "size": 0.275,
+        "opacity": 1
+    },
+
+    {
+        "sentence": "xi - FREEDOM DiVE↓",
+        "color": "white",
+        "startTime": 1014521,
+        "endTime": 1066443,
+        "startFadeTime": 500,
+        "endFadeTime": 500,
+        "X": -80,
+        "Y": 405,
+        "size": 0.275,
+        "opacity": 1
+    }
+]

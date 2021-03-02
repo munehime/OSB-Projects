@@ -1,0 +1,14 @@
+﻿FormatVersion: 7
+Name: "Lines 1"
+Script: "Lines"
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  104903fe7cab453995bf684b12c99b3f:
+    Name: "Horinzital"
+    OsbLayer: Foreground
+    DiffSpecific: Yes
+    Visible: No

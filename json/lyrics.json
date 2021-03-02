@@ -1,0 +1,73 @@
+[{
+        "sentence": "SUNSHINE",
+        "color": "white",
+        "startTime": 167100,
+        "endTime": 167982,
+        "startFadeTime": 100,
+        "endFadeTime": 100,
+        "X": 250,
+        "Y": 230.85,
+        "size": 0.3,
+        "opacity": 1
+    },
+    {
+        "sentence": "MERRY",
+        "color": "white",
+        "startTime": 762639,
+        "endTime": 763060,
+        "startFadeTime": 100,
+        "endFadeTime": 100,
+        "X": 270,
+        "Y": 230.85,
+        "size": 0.3,
+        "opacity": 1
+    },
+    {
+        "sentence": "CHRISTMAS",
+        "color": "white",
+        "startTime": 763060,
+        "endTime": 764492,
+        "startFadeTime": 100,
+        "endFadeTime": 100,
+        "X": 230,
+        "Y": 230.855,
+        "size": 0.3,
+        "opacity": 1
+    },
+    {
+        "sentence": "ONII-CHAN ♥",
+        "color": "white",
+        "startTime": 814971,
+        "endTime": 816041,
+        "startFadeTime": 100,
+        "endFadeTime": 100,
+        "X": 223,
+        "Y": 230.85,
+        "size": 0.3,
+        "opacity": 1
+    },
+    {
+        "sentence": "CHOTTO",
+        "color": "black",
+        "startTime": 865399,
+        "endTime": 865791,
+        "startFadeTime": 100,
+        "endFadeTime": 100,
+        "X": 257,
+        "Y": 230.85,
+        "size": 0.3,
+        "opacity": 1
+    },
+    {
+        "sentence": "MATTE",
+        "color": "black",
+        "startTime": 865827,
+        "endTime": 866465,
+        "startFadeTime": 100,
+        "endFadeTime": 100,
+        "X": 267,
+        "Y": 230.85,
+        "size": 0.3,
+        "opacity": 1
+    }
+]

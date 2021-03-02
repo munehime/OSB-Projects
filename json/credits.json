@@ -1,0 +1,74 @@
+[
+	{
+		"sentence": "Various Artists",
+		"color": "white",
+		"startTime": 771575,
+		"endTime": 776391,
+		"startFadeTime": 0,
+		"endFadeTime": 0,
+		"X": 205,
+		"Y": 255,
+		"size": 0.3,
+		"opacity": 1
+	},
+	{
+		"sentence": "Patt!Memories",
+		"color": "white",
+		"startTime": 773975,
+		"endTime": 776391,
+		"startFadeTime": 0,
+		"endFadeTime": 0,
+		"X": 218,
+		"Y": 305,
+		"size": 0.3,
+		"opacity": 1
+	},
+	{
+		"sentence": "Beatmap",
+		"color": "white",
+		"startTime": 776628,
+		"endTime": 780575,
+		"startFadeTime": 0,
+		"endFadeTime": 0,
+		"X": 268,
+		"Y": 255,
+		"size": 0.3,
+		"opacity": 1
+	},
+	{
+		"sentence": "Try-Z",
+		"color": "white",
+		"startTime": 777678,
+		"endTime": 780575,
+		"startFadeTime": 0,
+		"endFadeTime": 0,
+		"X": 286,
+		"Y": 305,
+		"size": 0.3,
+		"opacity": 1
+	},
+	{
+		"sentence": "Storyboard",
+		"color": "white",
+		"startTime": 780733,
+		"endTime": 785634,
+		"startFadeTime": 0,
+		"endFadeTime": 0,
+		"X": 245,
+		"Y": 255,
+		"size": 0.3,
+		"opacity": 1
+	},
+	{
+		"sentence": "MunRika",
+		"color": "white",
+		"startTime": 782383,
+		"endTime": 785634,
+		"startFadeTime": 0,
+		"endFadeTime": 0,
+		"X": 271,
+		"Y": 303,
+		"size": 0.3,
+		"opacity": 1
+	}
+]

@@ -1,0 +1,45 @@
+﻿FormatVersion: 7
+Name: "PlayersAndSongs 1"
+Script: "PlayersAndSongs"
+Config:
+  Reload:
+    Type: "System.Boolean"
+    Value: "True"
+  Debug:
+    Type: "System.Boolean"
+    Value: "False"
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  6e24d11fac8d4f4fa1c40e14fba03430:
+    Name: "shadowLine"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  54549e38d69f406fadf9ef2b5b680d4f:
+    Name: "whiteLine"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  0d310799b2f046fab10906d197c36813:
+    Name: "players"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  8e8b096fd7804f12a0193a077cbee174:
+    Name: "songs"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  aea0f0f44fb0445bac4b6e02004e3d2b:
+    Name: "credits"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  e409b9dfc2a6455eafd49999ee4485e5:
+    Name: "lyrics"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
