@@ -1,0 +1,14 @@
+﻿FormatVersion: 7
+Name: "Timeline 1"
+Script: "Timeline"
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  c1bbbf08b8bc4c149d022f49c4f549d8:
+    Name: ""
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes

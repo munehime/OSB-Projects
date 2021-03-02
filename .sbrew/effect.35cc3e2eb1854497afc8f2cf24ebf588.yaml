@@ -1,0 +1,14 @@
+﻿FormatVersion: 7
+Name: "CreditsManager 1"
+Script: "CreditsManager"
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  7978899815744566880c5acb050bbb5b:
+    Name: ""
+    OsbLayer: Foreground
+    DiffSpecific: Yes
+    Visible: Yes
