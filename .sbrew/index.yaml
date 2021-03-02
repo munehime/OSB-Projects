@@ -1,0 +1,17 @@
+﻿FormatVersion: 6
+MapsetPath: "E:/osu!/Songs/1130076 Various Artists - osu! Community Choice 2019"
+BeatmapId: 2360637
+BeatmapName: "Eternity"
+Assemblies:
+  - "projects\\osu! Community Choice 2019\\Newtonsoft.Json.dll"
+Layers:
+  - "fedb0df35aa846e197f5410660f39957"
+  - "663007ee3bf64695bddf9f62cc8b786c"
+  - "cdf68acc45f842d2bb030a2cad2ba8a1"
+  - "553f7404efe44d949eb841031e6e3171"
+  - "db766c7c214b41ff8a22b75696ad2a34"
+  - "e2d310797bcd40898ce4e3e749fb113f"
+  - "5c652b0c2f23437cbed9646b47e016d4"
+  - "432c2a8e8b234cfd8f4e346225fcbe5e"
+  - "66b86348995f443d93d51b75b0537f2f"
+  - "16e6d5ad799f400baf5e11be0c8258fd"

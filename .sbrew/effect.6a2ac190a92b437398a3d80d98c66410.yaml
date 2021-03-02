@@ -1,0 +1,39 @@
+﻿FormatVersion: 6
+Name: "BeatmapsManager 1"
+Script: "BeatmapsManager"
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  663007ee3bf64695bddf9f62cc8b786c:
+    Name: "soild"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  cdf68acc45f842d2bb030a2cad2ba8a1:
+    Name: "bg"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  e2d310797bcd40898ce4e3e749fb113f:
+    Name: "shadow"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  5c652b0c2f23437cbed9646b47e016d4:
+    Name: "line"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  432c2a8e8b234cfd8f4e346225fcbe5e:
+    Name: "info"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  16e6d5ad799f400baf5e11be0c8258fd:
+    Name: "vig"
+    OsbLayer: Overlay
+    DiffSpecific: No
+    Visible: Yes
