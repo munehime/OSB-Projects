@@ -27,6 +27,7 @@ namespace StorybrewScripts
 
             switch (Beatmap.Name)
             {
+                case "Aqua_'s Expert":
                 case "Nanachi's Extra":
                     var beatmapInfo = Beatmap.ToString().Split('\'');
                     GenerateIntroTitle($"Beatmap: {beatmapInfo[0].Replace("s ", "")}", 149892, 152156);
@@ -45,7 +46,8 @@ namespace StorybrewScripts
                     break;
             }
 
-            GenerateIntroTitle("Storyboard: Mune", 152156, 154420);
+            GenerateIntroTitle("Hitsound: Hokichi", 152156, 154420);
+            GenerateIntroTitle("Storyboard: Mune", 154420, 156684);
 
         }
 
