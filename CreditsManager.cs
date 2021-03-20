@@ -38,7 +38,7 @@ namespace StorybrewScripts
                     break;
 
                 case "Ducky=Eresh's Insane":
-                    GenerateIntroTitle("Beatmap: Ducky- x -Eresh", 149892, 152156);
+                    GenerateIntroTitle("Beatmap: Ducky- & -Eresh", 149892, 152156);
                     break;
 
                 default:
@@ -48,7 +48,6 @@ namespace StorybrewScripts
 
             GenerateIntroTitle("Hitsound: Hokichi", 152156, 154420);
             GenerateIntroTitle("Storyboard: Mune", 154420, 156684);
-
         }
 
         private void GenerateIntroTitle(string title, double startTime, double endTime)
