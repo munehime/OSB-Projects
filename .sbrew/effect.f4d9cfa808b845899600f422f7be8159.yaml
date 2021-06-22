@@ -1,0 +1,14 @@
+﻿FormatVersion: 7
+Name: "Flash 1"
+Script: "Flash"
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  971b6c806aef4d3fbf3c340ac32fc8cd:
+    Name: ""
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes

@@ -1,0 +1,14 @@
+﻿FormatVersion: 7
+Name: "HitobjectsHighlight 1"
+Script: "HitobjectsHighlight"
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  ff23988dff734b97b484e0d0b20836e0:
+    Name: "kiai"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes

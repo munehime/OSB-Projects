@@ -1,0 +1,338 @@
+[
+	{
+		"sentence": {
+			"russian": "Спи, спи маленький",
+			"english": "Sleep, sleep child"
+		},
+		"startTime": 20141,
+		"endTime": 24586
+	},
+	{
+		"sentence": {
+			"russian": "Малыш мой ты",
+			"english": "Oh my little child"
+		},
+		"startTime": 25475,
+		"endTime": 29030
+	},
+	{
+		"sentence": {
+			"russian": "Глазки свои закрывай",
+			"english": "Close your little eyes"
+		},
+		"startTime": 30808,
+		"endTime": 35252
+	},
+	{
+		"sentence": {
+			"russian": "Слёзки забывай",
+			"english": "And forget your tears"
+		},
+		"startTime": 36141,
+		"endTime": 41030
+	},
+	{
+		"sentence": {
+			"russian": "Во сне, сне видишь ли ты",
+			"english": "In your dream, dream, do you see"
+		},
+		"startTime": 43697,
+		"endTime": 48586
+	},
+	{
+		"sentence": {
+			"russian": "Приключения грозные",
+			"english": "Trials so fierce and terrible?"
+		},
+		"startTime": 49474,
+		"endTime": 53919
+	},
+	{
+		"sentence": {
+			"russian": "Как ты вырастешь малыш",
+			"english": "Once you will grow up, my child"
+		},
+		"startTime": 54808,
+		"endTime": 59252
+	},
+	{
+		"sentence": {
+			"russian": "Кто тебя защитит?",
+			"english": "And who will guard you?"
+		},
+		"startTime": 60141,
+		"endTime": 64586
+	},
+	{
+		"sentence": {
+			"russian": "В небесах одна",
+			"english": "Lone in the skies up high"
+		},
+		"startTime": 65474,
+		"endTime": 69919
+	},
+	{
+		"sentence": {
+			"russian": "Шепчет луна",
+			"english": "Whispers the moon"
+		},
+		"startTime": 70808,
+		"endTime": 75252
+	},
+	{
+		"sentence": {
+			"russian": "Сказку тебе расскажет",
+			"english": "She'll tell you a fairy tale"
+		},
+		"startTime": 76141,
+		"endTime": 80586
+	},
+	{
+		"sentence": {
+			"russian": "Может судьбу покажет",
+			"english": "Maybe she'll show your fate"
+		},
+		"startTime": 81474,
+		"endTime": 85919
+	},
+	{
+		"sentence": {
+			"russian": "Не убежать никак",
+			"english": "There is no escape from it"
+		},
+		"startTime": 89474,
+		"endTime": 93919
+	},
+	{
+		"sentence": {
+			"russian": "Догоняет всегда",
+			"english": "It always catches up"
+		},
+		"startTime": 94808,
+		"endTime": 99252
+	},
+	{
+		"sentence": {
+			"russian": "Ночное время",
+			"english": "Night time"
+		},
+		"startTime": 100141,
+		"endTime": 107252
+	},
+	{
+		"sentence": {
+			"russian": "Всех поймает, а сейчас",
+			"english": "Will catch everyone, and now.."
+		},
+		"startTime": 108141,
+		"endTime": 117919
+	},
+	{
+		"sentence": {
+			"russian": "Песенку тебе я спою",
+			"english": "I'll sing a song to you"
+		},
+		"startTime": 118808,
+		"endTime": 123252
+	},
+	{
+		"sentence": {
+			"russian": "Баюшкины баю, баю",
+			"english": "Bayushkiny bayu, bayu"
+		},
+		"startTime": 124141,
+		"endTime": 129030
+	},
+	{
+		"sentence": {
+			"russian": "Земля она то вертится",
+			"english": "The earth is gently turning round"
+		},
+		"startTime": 129475,
+		"endTime": 133919
+	},
+	{
+		"sentence": {
+			"russian": "Глазки закрываются",
+			"english": "As your little eyes close"
+		},
+		"startTime": 134808,
+		"endTime": 139252
+	},
+	{
+		"sentence": {
+			"russian": "Песенку тебе я спою",
+			"english": "The smallest song I'll sing to you"
+		},
+		"startTime": 140141,
+		"endTime": 144586
+	},
+	{
+		"sentence": {
+			"russian": "Баюшкины баю",
+			"english": "Bayushkiny bayu"
+		},
+		"startTime": 145475,
+		"endTime": 154363
+	},
+	{
+		"sentence": {
+			"russian": "Глазки закрываются",
+			"english": "As your little eyes close"
+		},
+		"startTime": 156141,
+		"endTime": 160586
+	},
+	{
+		"sentence": {
+			"russian": "Если в дверь кто-то стучит",
+			"english": "Should someone come knock at the door"
+		},
+		"startTime": 161475,
+		"endTime": 166363
+	},
+	{
+		"sentence": {
+			"russian": "Кто бы это было бы",
+			"english": "Whoever it is now?"
+		},
+		"startTime": 166808,
+		"endTime": 171252
+	},
+	{
+		"sentence": {
+			"russian": "Может это ветерок",
+			"english": "Maybe it'll be the breeze"
+		},
+		"startTime": 172141,
+		"endTime": 177030
+	},
+	{
+		"sentence": {
+			"russian": "А может и волчок",
+			"english": "Or maybe a baby wolf"
+		},
+		"startTime": 177475,
+		"endTime": 181475
+	},
+	{
+		"sentence": {
+			"russian": "Малыш ты не бойся",
+			"english": "Do not fear, my child, now"
+		},
+		"startTime": 182808,
+		"endTime": 187697
+	},
+	{
+		"sentence": {
+			"russian": "Того кто воет и зовёт тебя",
+			"english": "Whoever howls or calls to you"
+		},
+		"startTime": 188141,
+		"endTime": 192586
+	},
+	{
+		"sentence": {
+			"russian": "Слёзки высуши",
+			"english": "Forget your teary tears"
+		},
+		"startTime": 193475,
+		"endTime": 197919
+	},
+	{
+		"sentence": {
+			"russian": "И смело засни",
+			"english": "Be brave and fall asleep"
+		},
+		"startTime": 198808,
+		"endTime": 203252
+	},
+	{
+		"sentence": {
+			"russian": "В небесах одна",
+			"english": "Lone in the skies up high"
+		},
+		"startTime": 204141,
+		"endTime": 208586
+	},
+	{
+		"sentence": {
+			"russian": "Шепчет луна",
+			"english": "Whispers the moon"
+		},
+		"startTime": 209475,
+		"endTime": 213919
+	},
+	{
+		"sentence": {
+			"russian": "Сказку тебе расскажет",
+			"english": "She'll tell you a fairy tale"
+		},
+		"startTime": 214808,
+		"endTime": 219697
+	},
+	{
+		"sentence": {
+			"russian": "Может судьбу покажет",
+			"english": "Maybe she'll show your fate"
+		},
+		"startTime": 220141,
+		"endTime": 225030
+	},
+	{
+		"sentence": {
+			"russian": "Песенку тебе я спою",
+			"english": "The smallest song I'll sing to you"
+		},
+		"startTime": 225475,
+		"endTime": 229919
+	},
+	{
+		"sentence": {
+			"russian": "Баюшкины баю, баю",
+			"english": "Bayushkiny bayu, bayu"
+		},
+		"startTime": 230808,
+		"endTime": 235697
+	},
+	{
+		"sentence": {
+			"russian": "Земля она то вертится",
+			"english": "The earth is gently turning round"
+		},
+		"startTime": 236141,
+		"endTime": 240586
+	},
+	{
+		"sentence": {
+			"russian": "Глазки закрываются",
+			"english": "As little eyes close"
+		},
+		"startTime": 241475,
+		"endTime": 245919
+	},
+	{
+		"sentence": {
+			"russian": "Песенку тебе я спою",
+			"english": "The smallest song I'll sing to you"
+		},
+		"startTime": 246808,
+		"endTime": 251252
+	},
+	{
+		"sentence": {
+			"russian": "Баюшкины баю",
+			"english": "Bayushkiny bayu"
+		},
+		"startTime": 252141,
+		"endTime": 260141
+	},
+	{
+		"sentence": {
+			"russian": "Глазки закрываются",
+			"english": "As your little eyes close, now..."
+		},
+		"startTime": 262808,
+		"endTime": 268141
+	}
+]

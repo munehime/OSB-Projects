@@ -1,0 +1,14 @@
+﻿FormatVersion: 7
+Name: "Logos 1"
+Script: "Logos"
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  b95ff9f192ea4b7481f622a0dd857cd1:
+    Name: "arknights"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
