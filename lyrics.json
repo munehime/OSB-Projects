@@ -42,7 +42,7 @@
 	{
 		"sentence": {
 			"russian": "Приключения грозные",
-			"english": "Trials so fierce and terrible?"
+			"english": "A formidable adventure?"
 		},
 		"startTime": 49474,
 		"endTime": 53919
@@ -146,7 +146,7 @@
 	{
 		"sentence": {
 			"russian": "Земля она то вертится",
-			"english": "The earth is gently turning round"
+			"english": "The earth is turning round"
 		},
 		"startTime": 129475,
 		"endTime": 133919
@@ -162,7 +162,7 @@
 	{
 		"sentence": {
 			"russian": "Песенку тебе я спою",
-			"english": "The smallest song I'll sing to you"
+			"english": "I'll sing a song to you"
 		},
 		"startTime": 140141,
 		"endTime": 144586
@@ -218,7 +218,7 @@
 	{
 		"sentence": {
 			"russian": "Малыш ты не бойся",
-			"english": "Do not fear, my child, now"
+			"english": "Do not fear, my child"
 		},
 		"startTime": 182808,
 		"endTime": 187697
@@ -234,7 +234,7 @@
 	{
 		"sentence": {
 			"russian": "Слёзки высуши",
-			"english": "Forget your teary tears"
+			"english": "Dry your tears"
 		},
 		"startTime": 193475,
 		"endTime": 197919
@@ -242,7 +242,7 @@
 	{
 		"sentence": {
 			"russian": "И смело засни",
-			"english": "Be brave and fall asleep"
+			"english": "And feel free to fall asleep"
 		},
 		"startTime": 198808,
 		"endTime": 203252
@@ -282,7 +282,7 @@
 	{
 		"sentence": {
 			"russian": "Песенку тебе я спою",
-			"english": "The smallest song I'll sing to you"
+			"english": "I'll sing a song to you"
 		},
 		"startTime": 225475,
 		"endTime": 229919
@@ -298,7 +298,7 @@
 	{
 		"sentence": {
 			"russian": "Земля она то вертится",
-			"english": "The earth is gently turning round"
+			"english": "The earth is turning round"
 		},
 		"startTime": 236141,
 		"endTime": 240586
@@ -306,7 +306,7 @@
 	{
 		"sentence": {
 			"russian": "Глазки закрываются",
-			"english": "As little eyes close"
+			"english": "As your little eyes close"
 		},
 		"startTime": 241475,
 		"endTime": 245919
@@ -314,7 +314,7 @@
 	{
 		"sentence": {
 			"russian": "Песенку тебе я спою",
-			"english": "The smallest song I'll sing to you"
+			"english": "I'll sing a song to you"
 		},
 		"startTime": 246808,
 		"endTime": 251252
@@ -330,7 +330,7 @@
 	{
 		"sentence": {
 			"russian": "Глазки закрываются",
-			"english": "As your little eyes close, now..."
+			"english": "As your little eyes close"
 		},
 		"startTime": 262808,
 		"endTime": 268141
