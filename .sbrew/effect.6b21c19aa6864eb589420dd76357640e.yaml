@@ -1,0 +1,26 @@
+﻿FormatVersion: 7
+Name: "Lyrics 1"
+Script: "Lyrics"
+Config:
+  LyricsFilePath:
+    Type: "System.String"
+    Value: "lyrics.json"
+  FontName:
+    Type: "System.String"
+    Value: "SourceHanSerif-Regular.otf"
+  FontSize:
+    Type: "System.Int32"
+    Value: "60"
+  FontScale:
+    Type: "System.Single"
+    Value: "0.3"
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  fd6f2c7e1bc04ff38fd4cb5ec67f44cf:
+    Name: ""
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes

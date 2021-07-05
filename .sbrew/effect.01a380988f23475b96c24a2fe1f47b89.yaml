@@ -1,0 +1,24 @@
+﻿FormatVersion: 7
+Name: "Logo 1"
+Script: "Logo"
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  55601c7daf074843899c274bc032e888:
+    Name: "logo"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  3e8d02548c1445f1ab19ba6aa0e8ebec:
+    Name: "main logo"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  1cec21a7d8ba40ee95f19f86dd65dab4:
+    Name: "main logo 2"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes

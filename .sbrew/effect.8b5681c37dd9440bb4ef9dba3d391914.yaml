@@ -1,0 +1,37 @@
+﻿FormatVersion: 7
+Name: "BackgroundManager 1"
+Script: "BackgroundManager"
+Config:
+  Color:
+    Type: "OpenTK.Graphics.Color4"
+    Value: "1,1,1,1"
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  e26fc738be06461586b660c4c46d85c5:
+    Name: "intro"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  7e0ac041cb3c412ca8dad5b2e25528c9:
+    Name: ""
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  895723c4b7b3473e8ab944962058fdd4:
+    Name: "main logo"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  43ae76632a0d4b45a9a963f79b057351:
+    Name: "sky"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  81e2488e501849a59a7f85503117b3fb:
+    Name: "float"
+    OsbLayer: Foreground
+    DiffSpecific: Yes
+    Visible: Yes
